@@ -1,5 +1,5 @@
 # DevOps-Project-Netflix-Clone-Azure
-![image](https://github.com/user-attachments/assets/90a1d323-cf2c-4b23-99a4-a3e43899e749)
+![image](https://github.com/user-attachments/assets/e107ed31-d016-4965-bd10-6dad5cdbc6bb)
 
 
 
