@@ -46,3 +46,15 @@ The netflix-clone-auth secrets for kubernetes can be created using the command b
 
 kubectl create secret netflix-clone-auth --docker-server=https://netflixcontainer24registry.azurecr.io --docker-username=netflixcontainer24registry --docker-password=XXXXXXXXXXXXXXXXXXXXXXXXXXXOJ7eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMtTc -n netflix
 ```
+
+```
+For your reference the source code and helm chart is as given below.
+
+source code:- https://github.com/singhritesh85/DevSecOps-Project.git
+
+Helm Chart:-  https://github.com/singhritesh85/helm-repo-for-netflix-clone.git
+```
+
+```
+Reference:-  https://muditmathur121.medium.com/devsecops-netflix-clone-ci-cd-with-monitoring-email-990fbd115102
+```
