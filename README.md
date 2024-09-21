@@ -1,6 +1,14 @@
 # DevOps-Project-Netflix-Clone-Azure
 ![image](https://github.com/user-attachments/assets/e107ed31-d016-4965-bd10-6dad5cdbc6bb)
 
+Run below command to install node-exporter in kubernetes. 
+```
+kubectl create ns prometheus-node-exporter
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm install prometheus-node-exporter prometheus-community/prometheus-node-exporter --namespace prometheus-node-exporter --set service.type=LoadBalancer
+```
+![image](https://github.com/user-attachments/assets/77cf2a5f-66a7-45c3-a22e-1f526efe7ae4)
+
 For Prometheus do the configuration in the file **/etc/prometheus/prometheus.yml** as shown below.
 ![image](https://github.com/user-attachments/assets/70af5539-64ed-4ca0-83e5-482f6f59c677)
 
