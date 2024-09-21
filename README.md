@@ -40,6 +40,13 @@ The entry for DNS Zone is shown in the screenshot attached below.
 Finally you can access the application as shown below.
 ![image](https://github.com/user-attachments/assets/71877608-f647-4737-818c-2d05b8829319)
 
+To see the Azure DevOps Pipeline Rate and Pipeline Duration, please follow the procedure as shown in the screenshots below.
+![image](https://github.com/user-attachments/assets/2e4d986c-1667-44d4-86d4-e03321ef252c)
+![image](https://github.com/user-attachments/assets/a5da4db5-f8cc-4895-a29e-a7a09116d0f6)
+![image](https://github.com/user-attachments/assets/6be30f00-da66-4258-926e-40cec791b9c7)
+![image](https://github.com/user-attachments/assets/c8df20f3-236c-47ba-b05f-025db803fb22)
+![image](https://github.com/user-attachments/assets/2c5c7601-8d10-4cc8-ad65-278dcad7ddf8)
+![image](https://github.com/user-attachments/assets/66d6fdef-262e-41b3-8028-9eb9c64efcba)
 
 ```
 The netflix-clone-auth secrets for kubernetes can be created using the command below
